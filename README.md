@@ -1,3 +1,4 @@
 # C240-test
 
-hi test 1
+test 1
+test 2
